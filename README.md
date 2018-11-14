@@ -1,0 +1,60 @@
+# Ionic 3 Kitchen Sink
+
+An Ionic 3 demo app with all the components.
+
+## Components
+
+* Action Sheets
+* Alerts
+* Badges
+* Buttons
+* Cards
+* Checkbox
+* DateTime
+* FABs
+* Gestures
+* Grid
+* Icons
+* Inputs
+* Lists
+* Loading
+* Menus
+* Modals
+* Navigation
+* Popover
+* Radio
+* Range
+* Searchbar
+* Segment
+* Selects
+* Slides
+* Tabs
+* Toast
+* Toggle
+* Toolbar
+
+Learn more about Ionic components at [Ionic Components](http://ionicframework.com/docs/components/).
+
+# Installation
+
+To install Ionic 3 Kitchen Sink in your machine, run the following commands below. You may need to install the commands first as documented in the [Official Installation](http://ionicframework.com/docs/intro/installation/).
+
+$ `git clone git@github.com:hymns/ionic-3-kitchen-sink.git`
+
+$ `cd ionic-3-kitchen-sink`
+
+$ `npm install`
+
+$ `ionic serve`
+
+That's it! To quickly see the app run in Android, iOS and Windows phones, run:
+
+$ `ionic lab`
+
+You'll see:
+
+![Ionic 3 Kitchen Sink in Ionic Lab](/src/assets/images/ionic_lab.png?raw=true "Ionic 3 Kitchen Sink in Ionic Lab")
+
+## Deployment
+
+To deploy the app to real devices, such as Android, iOS or Windows phones, read on the [Official Deployment](http://ionicframework.com/docs/intro/deploying/) documentation.

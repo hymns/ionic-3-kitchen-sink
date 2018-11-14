@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Tabs</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-tabs>
+	<ion-tab tabIcon="heart" tabTitle="Hearts" [root]="tab1"></ion-tab>
+  <ion-tab tabIcon="star" tabTitle="Stars" tabBadge="3" tabBadgeStyle="danger" [root]="tab2"></ion-tab>
+</ion-tabs>

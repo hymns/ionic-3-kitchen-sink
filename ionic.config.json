@@ -1,0 +1,7 @@
+{
+  "name": "ionic-3-kitchen-sink",
+    "integrations": {
+    "cordova": {}
+  },
+  "typescript": true
+}
